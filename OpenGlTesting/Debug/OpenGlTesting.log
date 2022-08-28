@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(76,30): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(170,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(171,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(207,10): warning C4101: 'tmp': unreferenced local variable
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(235,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(269,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(302,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beban\source\repos\OpenGlTesting\OpenGlTesting\main.cpp(71): warning C4715: 'loadBMP_custom': not all control paths return a value
+  OpenGlTesting.vcxproj -> C:\Users\Beban\source\repos\OpenGlTesting\Debug\OpenGlTesting.exe
